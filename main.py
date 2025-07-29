@@ -7,4 +7,10 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
-
+#  выделение текста
+#  списки
+#  работа с изображениями
+#  ссылки
+#  работа с таблицами
+#  цитаты
+#  заключение
